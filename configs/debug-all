@@ -196,7 +196,7 @@ tessedit_display_outwords                           T
 wordrec_display_segmentations                       T
 
 # allow_blob_division
-# applybox_exposure_pattern
+# # applybox_exposure_pattern
 # applybox_learn_chars_and_char_frags_mode
 # applybox_learn_ngrams_mode
 # applybox_page
